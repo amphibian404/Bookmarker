@@ -2,7 +2,7 @@
 Word Bookmarker a simple tool to bookmark specific lines or words of a file and extract it into txt file
 # Usage
 ### Linux
-<sub>pip3 install colorama</sub>
+<sub>pip3 install colorama</sub>\n
 <sub>python3 run bookmarker.py</sub>
 
 Windows
