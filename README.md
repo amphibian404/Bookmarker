@@ -9,5 +9,5 @@ Word Bookmarker a simple tool to bookmark specific lines or words of a file and 
 > pip install colorama<br>
 > python bookmarker.py
 
-Inquiries 
+Inquiries <br>
 Discord : amphibian404#5620
