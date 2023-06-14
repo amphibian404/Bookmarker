@@ -6,7 +6,7 @@ Word Bookmarker a simple tool to bookmark specific lines or words of a file and 
 > python3 bookmarker.py
 
 ### Windows
-> pip install colorama
+> pip install colorama<br>
 > python bookmarker.py
 
 Inquiries 
